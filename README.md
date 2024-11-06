@@ -31,9 +31,9 @@ Eco Action is a platform where users can contribute to environmental sustainabil
 ### Installation
 
 1. **Clone the repo:**
-   ```bash
-   git clone https://github.com/yourusername/eco-action.git
-
+```bash
+ git clone https://github.com/yourusername/eco-action.git
+ ```
 2.**Install depedencies:**
  ```bash
   npm install
@@ -51,7 +51,7 @@ Eco Action is a platform where users can contribute to environmental sustainabil
 
 ### Technologies Used
 -Frontend: React, Tailwind CSS                                                                              
--Backend: Java Spring Boot, Node.js                                                                                 
+-Backend: Java Spring Boot                                                                                                                                           
 -Database: SQL                                                                                                      
  
 
