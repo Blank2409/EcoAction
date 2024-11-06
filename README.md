@@ -25,7 +25,7 @@ Eco Action is a platform where users can contribute to environmental sustainabil
 ### Prerequisites
 
 - Node.js and npm installed
-- MongoDB or other database service
+- SQL Database Service
 - Java Spring (for backend setup)
 
 ### Installation
