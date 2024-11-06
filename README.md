@@ -32,7 +32,7 @@ Eco Action is a platform where users can contribute to environmental sustainabil
 
 1. **Clone the repo:**
 ```bash
- git clone https://github.com/Blank2409/eco-action.git
+ git clone https://github.com/Blank2409/EcoAction.git
  ```
 2.**Install depedencies:**
  ```bash
