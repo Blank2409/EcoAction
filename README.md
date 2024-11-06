@@ -44,15 +44,15 @@ Eco Action is a platform where users can contribute to environmental sustainabil
  ```
 
 ### Usage
-1.Sign up/Login to access features.
-2.Upload a photo of your eco-friendly actions.
-3.Earn points once your action is verified.
-4.Redeem points for vouchers in the rewards section.
+1.Sign up/Login to access features.                                                                      
+2.Upload a photo of your eco-friendly actions.                                                                          
+3.Earn points once your action is verified.                                                          
+4.Redeem points for vouchers in the rewards section.                                                                     
 
 ### Technologies Used
--Frontend: React, Tailwind CSS
--Backend: Java Spring Boot, Node.js
--Database: SQL
-
+-Frontend: React, Tailwind CSS                                                                              
+-Backend: Java Spring Boot, Node.js                                                                                 
+-Database: SQL                                                                                                      
+ 
 
 
